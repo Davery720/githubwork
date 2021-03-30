@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Zev","characterIndex":0,"characterName":"Zev","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zev","nickname":"","note":"","profile":"A schizophrenic pirate."},
+{"id":2,"battlerName":"owen","characterIndex":0,"characterName":"thumbnail_image0","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[{"code":32,"dataId":1,"value":0.01},{"code":31,"dataId":1,"value":1},{"code":43,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Owen","nickname":"","note":"","profile":"ewasfkl's worst enemy."},
+{"id":3,"battlerName":"judiel","characterIndex":0,"characterName":"judiel","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"Actor1","traits":[{"code":31,"dataId":7,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Judiel","nickname":"Maple","note":"","profile":"A member of the Matanguihan family."},
+{"id":4,"battlerName":"ben","characterIndex":0,"characterName":"ben","classId":4,"equips":[4,0,2,3,4],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ben","nickname":"","note":"","profile":"The only Oklahomie."},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[{"code":43,"dataId":11,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Funny Dog","nickname":"Funny Dog","note":"","profile":"The world's funniest dog!"}
+]
